@@ -2,56 +2,25 @@
 
 # Yönetim ve Hasta Takip Sistemi
 
-Bu proje, hasta kayıtları ve yönetim süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir web tabanlı uygulamadır. Proje, ASP.NET, C#, SQL Server ve web teknolojileri kullanılarak hayata geçirilmiştir.
+Bu proje, hasta kayıtları ve yönetim süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir web tabanlı uygulamadır. Proje, ASP.NET, HTML,CSS,JS, SQL Server ve web teknolojileri kullanılarak hayata geçirilmiştir.
 
 ---
 
 ## İçindekiler
 1. [Giriş](#giriş)
-2. [GitHub ve GitLab Karşılaştırması](#karşılaştırma)
-3. [Platform Seçimi](#platform-seçimi)
-4. [GitHub Kullanım Planı](#final-projesi-kullanım-planı)
-5. [Ekip Üyeleri ve Görevler](#ekip-üyeleri-ve-görevler)
-6. [Projenin İndirilmesi ve Çalıştırılması](#projenin-indi̇rilmesi-ve-çalıştırılması)
-7. [Projenin Çalışma Prensibi](#projenin-çalışma-prensibi)
+2. [GitHub Kullanım Planı](#final-projesi-kullanım-planı)
+3. [Ekip Üyeleri ve Görevler](#ekip-üyeleri-ve-görevler)
+4. [Projenin İndirilmesi ve Çalıştırılması](#projenin-indi̇rilmesi-ve-çalıştırılması)
+5. [Projenin Çalışma Prensibi](#projenin-çalışma-prensibi)
 
 ---
 
 ## Giriş
 
-- *Git Nedir?*
-  Git, dağıtılmış bir versiyon kontrol sistemidir. Geliştiricilerin kodlarını yönetmesine, değişikliklerini takip etmesine ve ekip olarak çalışmasına olanak tanır.
 
-- *GitHub Nedir?*
-  GitHub, Git tabanlı bir kod paylaşım platformudur. Geliştiricilere projelerini depolama, paylaşma ve iş birliği yapma imkanı sağlar.
 
-- *GitHub’ın Avantajları:*
-  - Kodların merkezi bir yerde güvenli bir şekilde depolanması.
-  - Ekip içi iş birliğinin kolaylaştırılması.
-  - CI/CD süreçlerinin kolay bir şekilde otomasyona bağlanması.
-  - Geniş bir topluluk ve güçlü destek.
+-# Yönetim ve Hasta Takip Sistemi
 
----
-
-## Karşılaştırma
-
-| Özellik               | GitHub                      | GitLab                      |
-|-----------------------|-----------------------------|-----------------------------|
-| *Dağıtılmış Depolar*| Git tabanlı, merkezi odaklı | Git tabanlı, merkezi odaklı |
-| *Versiyon Kontrolü* | Güçlü ve yaygın            | Güçlü ve esnek              |
-| *CI/CD Araçları*    | GitHub Actions ile entegre  | Daha kapsamlı CI/CD araçları|
-| *Proje Yönetimi*    | Basit ve kullanıcı dostu    | Detaylı ve esnek            |
-
----
-
-## Platform Seçimi
-
-*GitHub’ı tercih etme nedenlerimiz:*
-
-- Kullanım kolaylığı ve anlaşılır arayüz.
-- GitHub Actions ile CI/CD otomasyonu.
-- Geniş kullanıcı kitlesi ve topluluk desteği.
-- Diğer araçlarla kolay entegrasyon.
 
 ---
 
