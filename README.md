@@ -47,15 +47,17 @@ Bu proje, hasta kayıtları ve yönetim süreçlerini kolaylaştırmak amacıyla
   - ASP.NET ve C# kullanarak backend geliştirmelerini gerçekleştirdim.
   - Veri tabanı bağlantıları kurarak CRUD işlemleri (Create, Read, Update, Delete) gerçekleştirdim.
 
-- *CUMA ALZEDAN:*
+- *muhanned camakcı:*
   - Web sayfalarının tasarımı ve kullanıcı arayüzü (UI) geliştirmelerini ben yaptım.
   - CSS ile sayfa düzenini oluşturup, responsive tasarım sağladım.
   - JavaScript ile sayfada dinamik işlemler (form doğrulama, arama, vb.) gerçekleştirdim.
 
-- *CUMA ALZEDAN:*
+- *ortak çalışma:*
   - SQL Server veri tabanı tasarımını ve yönetimini ben üstlendim.
   - Veri tabanında hasta bilgilerini saklama ve sorgulama işlemlerini gerçekleştirdim.
   - Veri tabanı ile ASP.NET arasında entegrasyon sağladım.
+  - test etme
+  - denetleme ve geliştırme
 
 ---
 
