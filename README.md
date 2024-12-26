@@ -19,7 +19,7 @@ Bu proje, hasta kayıtları ve yönetim süreçlerini kolaylaştırmak amacıyla
 
 
 
--# Yönetim ve Hasta Takip Sistemi
+# Yönetim ve Hasta Takip Sistemi
 
 
 ---
